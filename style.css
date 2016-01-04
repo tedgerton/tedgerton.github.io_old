@@ -3,8 +3,21 @@ body {
   font-weight: 300;
   background-image: url(linedpaper.png);
   background-repeat: repeat;
+  background-image: url(Chicago3.jpg);
+  background-size: 100%;
+  border-style: ridge;
+
 }
 #wrapper {
   width: 960px;
   margin: 20px auto 20px auto;
 }
+h1 {color: red;
+/*insert comments like this*/
+}
+h4 {color: #36B2B3
+}
+#summary {color: orange}
+
+h1 {text-decoration: underline}
+p {color: white}
